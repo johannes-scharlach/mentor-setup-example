@@ -1,0 +1,9 @@
+{
+  "name": "mentor-setup-example",
+  "version": "1.0.0",
+  "description": "An example on how mentor can be run",
+  "main": "index.js",
+  "repository": "git@github.com:johannes-scharlach/mentor-setup-example.git",
+  "author": "Johannes Scharlach <johannes.scharlach@gmail.com>",
+  "license": "MIT"
+}
