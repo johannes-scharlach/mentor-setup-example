@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:johannes-scharlach/mentor-setup-example.git",
   "author": "Johannes Scharlach <johannes.scharlach@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "johanness-scripts": "^1.1.0"
+  }
 }
